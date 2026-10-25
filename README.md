@@ -4,7 +4,7 @@ A responsive website concept for a physiotherapy practice, developed as part of 
 
 🌐 Live Demo
 
-[View Sunrise Physio Website](https://aditya071099.github.io/FUTUREFS03/)
+[View Sunrise Physio Website](https://aditya071099.github.io/FUTURE_FS_03/)
 
 📌 Project Overview
 
