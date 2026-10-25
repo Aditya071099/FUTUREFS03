@@ -1,5 +1,5 @@
 /* ---- Edit these for the real clinic ---- */
-const WHATSAPP = "9689921037"; // country code + number, digits only (e.g. 9689921037)
+const WHATSAPP = "+919689921037"; // country code + number, digits only (e.g. 9689921037)
 const HOURS = {                  // 0 = Sunday ... 6 = Saturday; times are 24-hour
   0: [],
   1: [["09:00", "13:00"], ["17:00", "20:00"]],
